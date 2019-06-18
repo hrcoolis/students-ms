@@ -1,3 +1,8 @@
+/* ADMIN INDEX */
+
+
+
+
 /* POP UP FORM */
 
  {box-sizing: border-box;}
@@ -14,6 +19,12 @@
   bottom: 23px;
   right: 28px;
   width: 280px;
+}
+.hide {
+    display: none;
+}
+#teachers{
+	display:none;
 }
 
 /* The popup form - hidden by default */
